@@ -10,3 +10,13 @@
 
 3 - Implementing the data into a RMDBS like `MYSQL`
 ```
+
+
+
+
+Work team:
+ Zineb Belassiri
+ Mina Dakiri
+ Salma Belassiri
+ Fatima-ezzahra Zahid
+ Douae Lasri
